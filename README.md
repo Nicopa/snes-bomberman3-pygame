@@ -22,16 +22,15 @@ It is still under development. Anyone who wants to collaborate, feel free to do 
 
 ## Controls
 
-| Buttons       | Effect        |
-| ------------- | ------------- |
-| Up arrow      | `Move up`     |
-| Right arrow   | `Move right`  |
-| Down arrow    | `Move down`   |
-| Left arrow    | `Move left`   |
-| Spacebar      | `Place bomb`  |
-| P             | `Pause`       |
-| Esc           | `Exit`        |
-| ------------- | ------------- |
+| Buttons     | Effect       |
+| ----------- | ------------ |
+| Up arrow    | `Move up`    |
+| Right arrow | `Move right` |
+| Down arrow  | `Move down`  |
+| Left arrow  | `Move left`  |
+| Spacebar    | `Place bomb` |
+| P           | `Pause`      |
+| Esc         | `Exit`       |
 
 ## Requirements
 
